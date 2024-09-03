@@ -1,4 +1,4 @@
-# ITCH
+# TotalViewITCH
 
 A Julia based implementation of Nasdaq's ITCHv5 protocol
 
